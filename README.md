@@ -1,2 +1,1 @@
-# voyage-internship-journey
-Initial commit of the project files. This repository contains the source code, resources, and configuration files for the application.
+ A simple To-Do application built with React that allows users to add, edit, mark as complete, and delete tasks. It helps users manage daily activities with an interactive and responsive interface, ensuring better productivity and task organization.
